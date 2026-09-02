@@ -1,3 +1,3 @@
 fn main() {
-	printin!("welcome to COS 101!");
+	println!("welcome to COS 101!");
 }
